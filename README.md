@@ -1,4 +1,6 @@
-CAPSTONE PROJECT 
+# Capstone Project — Sales & Order Analytics Dashboard
+
+
 
 ## Project Overview
 
